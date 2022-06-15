@@ -11,13 +11,22 @@ const Header = () => {
                 <h4>Olá, SEJA BEM VINDO!</h4>
                 
                 <HeaderSocial />
-
+                
                 <div className="me">
                     <img src={ME} alt="Eu" className="me-img" />
+
+                    
                 </div>
 
+                <CTA />
+                
                 <a href="#contact" className="scroll__down">Scroll Down</a>
+
+                
             </div>
+
+
+            
         </header>
     )
 }

@@ -42,7 +42,7 @@ const About = () => {
                         <p>Somos uma empresa de Consultoria Imobiliária, trabalhamos com empreendimentos privados, buscamos a máxima satisfação dos nossos clientes afim de encontrarem um local que seja adequado a sua realidade e necessidades, agende uma visita e venha conhecer nossas oportunidades.
                         </p>
 
-                        <a href="https://wa.me/5511942596382" className="btn btn-primary">Entre em Contato</a>
+                        <a href="https://wa.me/5511942596382" target="_blank" className="btn btn-primary">Entre em Contato</a>
 
                     </div>
                 </div>

@@ -1,0 +1,12 @@
+.cta a{
+    margin: 0 25px;
+
+
+}
+
+@media screen and (max-width: 600px){
+    .cta a{
+       margin-bottom: 15px;
+        
+    }
+}
