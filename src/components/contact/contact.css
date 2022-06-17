@@ -1,13 +1,13 @@
 .container.contact__container{
     /* width: 100%; */
     display: flex;
+    justify-content: center;
     gap: 2%;
 }
 
 .contact__options{
     display: flex;
     flex-direction: row;
-
     gap: 2.2rem;
 
 }

@@ -1,0 +1,13 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+#slider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.slider-container{
+    border-radius: 25px;
+    width: 720px;
+}
+
