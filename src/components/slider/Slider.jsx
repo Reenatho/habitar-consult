@@ -14,6 +14,7 @@ import IMG8 from '../../assets/habitar-jpg/Slide8.JPG'
 import IMG10 from '../../assets/habitar-jpg/Slide10.JPG'
 import IMG11 from '../../assets/habitar-jpg/Slide11.JPG'
 import IMG12 from '../../assets/habitar-jpg/Slide12.JPG'
+import IMG13 from '../../assets/habitar-jpg/Slide13.JPG'
 
 
 const images = [
@@ -53,6 +54,9 @@ const images = [
     },
     {
       original: IMG12,
+    },
+    {
+      original: IMG13,
     },
     
   ];
