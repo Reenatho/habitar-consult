@@ -1,5 +1,5 @@
 header{
-    height: 550px;
+    height: 560px;
     padding-top: 4rem;
     overflow: hidden;
 }
@@ -59,7 +59,7 @@ header{
     width: 44rem;
     height: 30rem;
     position: absolute;
-    left: calc(18% - 2rem);
+    left: calc(25% - 5.5rem);
     margin-top: 6rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
