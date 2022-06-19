@@ -13,9 +13,7 @@ const Header = () => {
                 <HeaderSocial />
                 
                 <div className="me">
-                    <img src={ME} alt="Eu" className="me-img" />
-
-                    
+                    <img src={ME} alt="Eu" className="me-img" />  
                 </div>
 
                 <CTA />

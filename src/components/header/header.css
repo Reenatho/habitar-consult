@@ -53,9 +53,7 @@ header{
 .me{
     background: #fefefe;
     /* width: 22rem;
-    height: 15rem;
-    position: absolute;
-    left: calc(50% - 11rem); */
+    height: 15rem; */
     width: 44rem;
     height: 30rem;
     position: absolute;
@@ -97,7 +95,7 @@ header{
     width: 35rem;
     height: 30rem;
     position: absolute;
-    left: calc(18%);
+    left: calc(10%);
     margin-top: 11rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;

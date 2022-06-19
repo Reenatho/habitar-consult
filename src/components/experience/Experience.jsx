@@ -71,7 +71,7 @@ const Experience = () => {
                         <article className="experience__details">
                             <BsFillPatchCheckFill className="experience__details-icon"/>
                             <div>
-                                <h4>Lotes de R$ 129.990,00 a vista</h4>
+                                <h4>Lotes a partir de R$ 79.990,00 a vista</h4>
                                 <small className="text-light">800m²</small>
                             </div>
                         </article>
